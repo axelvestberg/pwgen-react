@@ -18,7 +18,7 @@ Start up the server by running: (it will start on port 5000)
 ```
 node index.js
 ```
-Start up the front end by running: (it will start on port 3300)
+Start up the front end by running: (it will start on port 3000)
 ```
 cd client && npm start
 ```
